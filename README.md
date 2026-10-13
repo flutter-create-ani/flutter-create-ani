@@ -1,280 +1,248 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:123D5A,100:1F6FEB&text=ANIKET%20KUMAR&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20DISTRIBUTED%20SYSTEMS%20%7C%20AI&descAlignY=61&animation=fadeIn" alt="Aniket Kumar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:123D5A,100:1F6FEB&text=ANIKET%20KUMAR&fontColor=FFFFFF&fontSize=36&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Aniket Kumar — Full Stack Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+products+from+UI+to+infrastructure;Designing+reliable+real-time+systems;Exploring+AI%2C+Go%2C+and+production+engineering;Measure+first.+Optimize+what+matters." alt="Animated engineering introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=950&color=58A6FF&center=true&vCenter=true&width=360&lines=Building+products+that+scale;Real-time+systems+%2B+AI;Learning+Go+in+public;Design.+Measure.+Improve." width="95%" alt="Animated developer introduction" />
 
-[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/flutter-create-ani)
-[![LeetCode](https://img.shields.io/badge/LeetCode-anie25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anie25/)
-[![Go](https://img.shields.io/badge/Currently_Learning-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/flutter-create-ani/go_learning)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/flutter-create-ani)
+[![LeetCode](https://img.shields.io/badge/LeetCode-aniec25-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/aniec25/)
+[![Go](https://img.shields.io/badge/Learning-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/flutter-create-ani/go_learning)
 
-<img src="https://komarev.com/ghpvc/?username=flutter-create-ani&label=Profile%20Views&color=1f6feb&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=flutter-create-ani&label=Profile%20views&color=1f6feb&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## ⚡ Engineering at a glance
+## 👋 About me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Full Stack Developer · Software Development Engineer I at ARM Worldwide**
 
-### 👨‍💻 Who I am
+I build end-to-end products: user interfaces, APIs, AI workflows, background jobs and real-time communication systems. I care about **correctness, observability, latency and deliberate scaling**.
 
-Full Stack Developer and Software Development Engineer building **web applications, backend services, real-time communication, and AI-powered workflows**.
+- 🏢 Previously: **Broki Services** and **Specstem Digital**
+- 🧠 Interested in **distributed systems, RAG, WebRTC and reliability**
+- 🌱 Learning **Go**, SRE and production engineering
+- 🎯 Practicing DSA on **[LeetCode · aniec25](https://leetcode.com/u/aniec25/)**
 
-- 🏢 **SDE I · ARM Worldwide**
-- 🧩 Previously **Broki Services** and **Specstem Digital**
-- 🔭 Interested in system design, distributed systems, RAG and reliability
-- 🌱 Learning **Go** and production engineering
-- 🧠 Solving algorithms on [LeetCode](https://leetcode.com/u/anie25/)
+> **How I work:** Understand requirements → model failure modes → ship the simplest sound design → measure → optimize → document trade-offs.
 
-</td>
-<td width="50%" valign="top">
-
-### 🎯 How I engineer
-
-```text
-Understand the product
-        ↓
-Model data and failure cases
-        ↓
-Ship the simplest sound design
-        ↓
-Measure p95 / p99 and errors
-        ↓
-Scale the proven bottleneck
-```
-
-**Principle:** Correctness first. Observability always. Complexity only when justified.
-
-</td>
-</tr>
-</table>
-
-## 🧰 Technology radar
+## 🧰 Tech stack
 
 <div align="center">
 
-**Languages & frontend**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,go,python,dart,react,nextjs,flutter,tailwind&perline=10" alt="Languages and frontend" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,go,python,dart&perline=3" alt="JavaScript TypeScript Java Go Python Dart" width="210" />
 
-**Backend, data & infrastructure**
+**Frontend & mobile**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis,firebase,aws,gcp,docker,nginx,githubactions&perline=12" alt="Backend and infrastructure" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind&perline=4" alt="React Next.js Flutter Tailwind" width="210" />
 
-`Kafka` · `BullMQ` · `RabbitMQ` · `Socket.IO` · `WebRTC` · `LiveKit` · `LangChain` · `RAG` · `MCP` · `Vector Search` · `REST APIs`
+**Backend & data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis&perline=3" alt="Node.js Express PostgreSQL MySQL MongoDB Redis" width="210" />
+
+**Cloud & delivery**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,githubactions,linux&perline=3" alt="AWS GCP Docker Nginx GitHub Actions Linux" width="210" />
 
 </div>
 
+**Other tools:** `Kafka` · `BullMQ` · `RabbitMQ` · `Socket.IO` · `WebRTC` · `LiveKit` · `LangChain` · `RAG` · `Vector Search` · `MCP`
 
-
-
-## 📈 Live Engineering Activity
+## 📈 Engineering activity
 
 <div align="center">
 
-<h3>⚡ GitHub Developer Analytics</h3>
+<a href="https://github.com/flutter-create-ani"><img src="https://github-readme-stats.vercel.app/api?username=flutter-create-ani&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub statistics" /></a>
 
-<a href="https://github.com/flutter-create-ani">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=flutter-create-ani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    width="49%"
-    alt="GitHub Statistics"
-  />
-</a>
-<a href="https://github.com/flutter-create-ani?tab=repositories">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=flutter-create-ani&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
-    width="49%"
-    alt="Most Used Languages"
-  />
-</a>
+<a href="https://github.com/flutter-create-ani?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flutter-create-ani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Most used repository languages" /></a>
 
-<h3>🗓️ GitHub Contribution Calendar</h3>
-
-<a href="https://github.com/flutter-create-ani">
-  <img
-    src="https://ghchart.rshah.org/1f6feb/flutter-create-ani"
-    width="98%"
-    alt="GitHub Contribution Calendar"
-  />
-</a>
-
-<h3>🔥 Development Activity</h3>
-
-<a href="https://github.com/flutter-create-ani">
-  <img
-    src="https://img.shields.io/github/followers/flutter-create-ani?style=for-the-badge&logo=github&label=Followers&color=1f6feb"
-    alt="GitHub Followers"
-  />
-</a>
-
-<a href="https://github.com/flutter-create-ani?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/Explore-Open_Source_Projects-238636?style=for-the-badge&logo=github"
-    alt="Explore Projects"
-  />
-</a>
-
-<a href="https://leetcode.com/u/anie25/">
-  <img
-    src="https://img.shields.io/badge/LeetCode-anie25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-    alt="LeetCode Profile"
-  />
-</a>
+[![See GitHub contributions](https://img.shields.io/badge/See_Contribution_Calendar-1F6FEB?style=for-the-badge&logo=github)](https://github.com/flutter-create-ani)
 
 </div>
 
-<sub>
-📊 GitHub statistics are generated by external providers and may be cached or temporarily unavailable. Private contributions appear in GitHub's native contribution calendar when enabled, but third-party cards may not include them without authenticated access.
-</sub>
+> GitHub's native contribution calendar can show eligible public **and private contribution counts** when enabled in your GitHub settings. Public stats cards cannot reliably include private contributions without authenticated access. The cards above are hosted by third parties and may occasionally fail.
 
-## 🐍 LeetCode activity — an animated submission calendar
+<!-- If you set up a separate authenticated GitHub metrics workflow that writes github-metrics.svg to main, uncomment this line:
+<img src="https://raw.githubusercontent.com/flutter-create-ani/flutter-create-ani/main/github-metrics.svg" width="100%" alt="Authenticated GitHub contribution calendar" />
+-->
+
+## 🐍 LeetCode submission snake
 
 <div align="center">
 
-<a href="https://leetcode.com/u/anie25/"><img src="https://img.shields.io/badge/Practice_Profile-anie25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" /></a>
+[![LeetCode · aniec25](https://img.shields.io/badge/LeetCode-aniec25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aniec25/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flutter-create-ani/flutter-create-ani/output/leetcode-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flutter-create-ani/flutter-create-ani/output/leetcode-snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/flutter-create-ani/flutter-create-ani/output/leetcode-snake-dark.svg" alt="LeetCode submission animation for anie25 — available after workflow publishes" />
+  <img src="https://raw.githubusercontent.com/flutter-create-ani/flutter-create-ani/output/leetcode-snake-dark.svg" width="100%" alt="Animated LeetCode submissions for aniec25" />
 </picture>
 
 </div>
 
 <details>
-<summary><b>ℹ️ How this animation stays updated</b></summary>
+<summary><b>How the snake stays updated</b></summary>
 
-The [`leetcode-snake.yml`](.github/workflows/leetcode-snake.yml) workflow runs the [generator](scripts/generate.py) and publishes its SVG output to the `output` branch. The image only renders after a successful workflow run. This animation represents **LeetCode submissions**, not GitHub commits; it is a custom visualization rather than the original `Platane/snk` algorithm.
-
-The source of truth for solved problems is the [LeetCode profile](https://leetcode.com/u/anie25/). The generator depends on access to LeetCode activity data.
+Your [LeetCode workflow](.github/workflows/leetcode-snake.yml) should run [`scripts/generate.py`](scripts/generate.py) with `LEETCODE_USERNAME: aniec25`, then publish `leetcode-snake.svg` and `leetcode-snake-dark.svg` to the `output` branch. The animation only displays after successful generation and publication. This is a custom LeetCode activity animation, not the GitHub `Platane/snk` contribution snake.
 
 </details>
 
 ## 🚀 Selected engineering work
 
-| Product / team | Focus | Technology / patterns |
-| :--- | :--- | :--- |
-| **ARM Worldwide · Luminary** | Full-stack AI workflows and multi-model orchestration | Next.js, React, Node.js, LLM routing |
-| **Komorebi.fit** | Wearable integration, sync, notifications | Terra API, Redis, BullMQ, background processing |
-| **Broki Services · CallHQ.ai** | CRM automation, AI integrations and backend optimization | Node.js, RAG, FastAPI, GCP Cloud Run |
-| **Specstem Digital** | Backend APIs and asynchronous processing | Express, AWS, BullMQ |
+### 🤖 Luminary · ARM Worldwide
 
-> These are summaries of my contributions and technologies, not disclosures of proprietary system internals.
+Full-stack AI workflows and multi-model orchestration.
 
-## 🧠 Systems design playground
+`Next.js` · `React` · `Node.js` · `LLM routing`
 
-I document architecture by starting with **requirements and failure modes**, then comparing simpler and more scalable alternatives.
+### 🏃 Komorebi.fit
+
+Wearable integrations, device sync and notification processing.
+
+`Terra API` · `Redis` · `BullMQ` · `Background jobs`
+
+### 📞 CallHQ.ai · Broki Services
+
+CRM automation, AI integrations and backend improvements.
+
+`Node.js` · `RAG` · `FastAPI` · `Cloud Run`
+
+### ⚙️ Specstem Digital
+
+Backend APIs and asynchronous processing.
+
+`Express` · `AWS` · `BullMQ`
+
+> These are high-level descriptions of my work, not disclosures of proprietary production architecture.
+
+## 🏗️ System design lab
+
+Architecture is about **trade-offs**, not collecting infrastructure components. Expand a design below to see the approach and reasoning.
 
 <details open>
-<summary><b>01 · Retrieval-Augmented Generation — asynchronous ingestion and retrieval</b></summary>
+<summary><b>01 · Scalable RAG: ingestion to answer</b></summary>
 
 ```mermaid
-flowchart LR
-  A[Documents / APIs] --> B[Ingestion Service]
-  B --> C[Job Queue]
+flowchart TB
+  A[Documents / APIs] --> B[Ingestion API]
+  B --> C[Queue]
   C --> D[Chunk + Embed Workers]
   D --> E[(Vector Index)]
-  F[User Question] --> G[Query Processing]
-  G --> H[Hybrid Search]
-  E --> H
-  H --> I[Rerank / Context Limit]
-  I --> J[Model Router]
-  J --> K[Stream Answer]
+  F[User Query] --> G[Hybrid Retrieval]
+  E --> G
+  G --> H[Rerank + Context Budget]
+  H --> I[LLM Router]
+  I --> J[Streaming Answer]
 ```
 
-| Decision | Benefit | Cost / risk |
-| :--- | :--- | :--- |
-| Queue ingestion | Handles spikes, retries | Index freshness lag |
-| Hybrid retrieval | Better lexical + semantic recall | More tuning and infrastructure |
-| Reranking | Better context relevance | Added latency and cost |
-| Model routing | Latency/cost control | Fallback and evaluation complexity |
+**Why this design?** Queues absorb ingestion spikes and support retries. Hybrid retrieval combines keyword and semantic matching. Reranking improves relevance but adds latency. Model routing can balance cost and quality but complicates fallbacks.
 
-**Measure:** retrieval recall, grounded answer quality, token cost, queue age, p95 end-to-end latency.
+**Watch:** recall, grounded-answer quality, queue lag, token cost, p95 latency.
 
 </details>
 
 <details>
-<summary><b>02 · Real-time messaging — connections, persistence and fan-out</b></summary>
+<summary><b>02 · Real-time messaging: durable delivery</b></summary>
 
 ```mermaid
-flowchart LR
-  A[Mobile / Web] --> B[Load Balancer]
+flowchart TB
+  A[Web / Mobile] --> B[Load Balancer]
   B --> C[WebSocket Gateways]
   C --> D[(Redis Presence)]
   C --> E[Message Service]
-  E --> F[(Durable Store)]
-  E --> G[Event Stream]
-  G --> H[Delivery Workers]
+  E --> F[(Durable DB)]
+  E --> G[Event Bus]
+  G --> H[Fan-out Workers]
   H --> C
 ```
 
-**Design choices:** Persist messages before acknowledging durable delivery; use message IDs for deduplication; treat presence as ephemeral; use backpressure and reconnect/resume logic. Redis helps with transient coordination, not as the sole source of durable messages.
+**Why this design?** WebSockets support low-latency communication but need reconnect handling. Presence can be ephemeral; messages need durable persistence. Use message IDs, acknowledgements, idempotency and backpressure.
 
-**Measure:** active connections, reconnect rate, delivery lag, dropped events and p99 send-to-receive latency.
+**Watch:** connection count, reconnect rate, p99 delivery latency, dropped events.
 
 </details>
 
 <details>
-<summary><b>03 · Notification pipeline — bursts, retries and idempotency</b></summary>
+<summary><b>03 · Notifications: burst handling</b></summary>
 
 ```mermaid
-flowchart LR
+flowchart TB
   A[Product Events] --> B[Notification Service]
   B --> C[Redis / BullMQ]
-  C --> D[Delivery Workers]
+  C --> D[Workers]
   D --> E[Push / Email / In-app]
   D --> F[(Delivery State)]
   D --> G[Retry / Dead Letter]
 ```
 
-**Design choices:** Queue bursts to protect downstream providers; enforce user preferences before sending; use deduplication keys; bound retry attempts; monitor dead-letter queues and provider failures.
+**Why this design?** Queues absorb bursts but make delivery asynchronous. Apply user preferences, idempotency keys, bounded retries and provider-specific rate limits.
 
-**Measure:** queue lag, duplicate-send rate, delivery success rate, p95 processing latency.
+**Watch:** queue age, success rate, duplicates, p95 delivery time.
 
 </details>
 
 <details>
-<summary><b>04 · System design checklist — my trade-off framework</b></summary>
+<summary><b>04 · My production design checklist</b></summary>
 
-| Dimension | Questions I ask |
-| :--- | :--- |
-| **Correctness** | What must be atomic? What can be eventually consistent? |
-| **Load** | Read/write ratio? Peak concurrency? Hot keys? |
-| **Data** | SQL vs document store? Index strategy? Retention? |
-| **Reliability** | Timeouts? Retries? Idempotency? Failure isolation? |
-| **Observability** | Logs, metrics, traces, SLOs and alert thresholds? |
-| **Cost** | Can we scale workers before adding more services? |
+- **Correctness:** Which writes must be atomic? Where is eventual consistency acceptable?
+- **Traffic:** Peak QPS, read/write ratio, concurrency and hot keys?
+- **Data:** Schema, indexes, retention and migration strategy?
+- **Reliability:** Timeouts, retries, idempotency and failure isolation?
+- **Observability:** Metrics, traces, logs, SLOs and alerts?
+- **Cost:** Can simpler scaling solve the bottleneck first?
 
 </details>
 
-<sub>Architecture diagrams are illustrative reference designs and are not claims about internal production deployments.</sub>
+<sub>Diagrams are illustrative reference architectures, not verified internal deployments of any employer.</sub>
 
-## 🧪 Building in public
+## 🧪 Learning in public
 
 <div align="center">
 
-<a href="https://github.com/flutter-create-ani/go_learning">
-  <img width="75%" src="https://github-readme-stats.vercel.app/api/pin/?username=flutter-create-ani&repo=go_learning&theme=github_dark&hide_border=true" alt="Go learning repository" />
-</a>
+[![Go learning repository](https://img.shields.io/badge/Follow_My_Go_Learning-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/flutter-create-ani/go_learning)
 
-**Current focus:** Go · production engineering · observability · distributed systems · algorithmic problem solving
+**Go · Production Engineering · Observability · Distributed Systems · Algorithms**
 
 </div>
 
-## 🤝 Connect
+---
+
+## 🌐 Featured personal websites
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/flutter-create-ani?tab=repositories)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anie25/)
+### 🎮 GS Esports
+
+<a href="https://gsesports.in/"><img src="https://image.thum.io/get/width/900/crop/520/noanimate/https://gsesports.in/" width="100%" alt="Preview of GS Esports website" /></a>
+
+**Esports, competitive gaming and community experiences**
+
+[![Visit GS Esports](https://img.shields.io/badge/VISIT_GS_ESPORTS-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gsesports.in/)
+
+### 🧪 PieNot Labs
+
+<a href="https://pienotlabs.vercel.app/"><img src="https://image.thum.io/get/width/900/crop/520/noanimate/https://pienotlabs.vercel.app/" width="100%" alt="Preview of PieNot Labs website" /></a>
+
+**Personal web project**
+
+[![Visit PieNot Labs](https://img.shields.io/badge/VISIT_PIENOT_LABS-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://pienotlabs.vercel.app/)
+
+</div>
+
+> GitHub strips `<iframe>` elements from README files. These are responsive clickable previews, dependent on an external screenshot service. See [`websites.html`](websites.html) for a responsive iframe gallery suitable for a separate hosted page; each site may block iframe embedding.
+
+---
+
+<div align="center">
 
 **Build simply · Measure carefully · Scale deliberately**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:1F6FEB,100:0D1117" alt="Footer wave" />
+[![Repositories](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github)](https://github.com/flutter-create-ani?tab=repositories)
+[![LeetCode](https://img.shields.io/badge/LeetCode-aniec25-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/aniec25/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=80&color=0:1F6FEB,100:0D1117" width="100%" alt="Footer wave" />
 
 </div>
