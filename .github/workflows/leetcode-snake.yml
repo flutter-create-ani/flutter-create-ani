@@ -1,26 +1,47 @@
 name: Generate LeetCode Submission Snake
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 1 * * *'
+    - cron: "0 0 * * *"
+
 permissions:
   contents: write
+
+concurrency:
+  group: leetcode-snake
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
-      - name: Generate LeetCode activity animation
+          python-version: "3.12"
+
+      - name: Generate LeetCode animation
         env:
-          LEETCODE_USERNAME: anie25
-        run: python scripts/generate.py
-      - name: Publish animations
+          LEETCODE_USERNAME: aniec25
+        run: |
+          python scripts/generate.py
+
+      - name: Verify generated SVG files
+        run: |
+          ls -lah dist/
+          test -f dist/leetcode-snake.svg
+          test -f dist/leetcode-snake-dark.svg
+
+      - name: Publish animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Update LeetCode activity animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
