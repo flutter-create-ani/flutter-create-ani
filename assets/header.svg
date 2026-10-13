@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Aniket Kumar — Software Engineer</title>
+  <desc id="desc">Backend systems, real-time products, applied AI. A navy banner with a gently animated teal network.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091522"/><stop offset="1" stop-color="#102A35"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#28DCC0" stop-opacity=".17"/><stop offset="1" stop-color="#28DCC0" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7EACB4" stroke-opacity=".065"/></pattern>
+    <clipPath id="round"><rect width="1200" height="390" rx="24"/></clipPath>
+  </defs>
+  <style>
+    .signal {stroke-dasharray:5 15; animation:flow 7s linear infinite}
+    .halo {transform-origin:966px 174px; animation:breathe 5s ease-in-out infinite}
+    @keyframes flow {to {stroke-dashoffset:-160}}
+    @keyframes breathe {50% {opacity:.4;transform:scale(1.07)}}
+    @media (prefers-reduced-motion:reduce) {.signal,.halo{animation:none}}
+  </style>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="390" fill="url(#bg)"/>
+    <rect width="1200" height="390" fill="url(#grid)"/>
+    <ellipse cx="995" cy="160" rx="300" ry="310" fill="url(#glow)"/>
+    <path d="M52 48h36" stroke="#4DE2C6" stroke-width="3"/>
+    <text x="104" y="53" fill="#91B4C0" font-family="monospace" font-size="13" letter-spacing="3">ENGINEER / BUILDER / LEARNER</text>
+    <text x="50" y="139" fill="#F0F8FA" font-family="Arial,Helvetica,sans-serif" font-size="68" font-weight="700" letter-spacing="-2">Aniket Kumar</text>
+    <text x="54" y="184" fill="#4DE2C6" font-family="Arial,Helvetica,sans-serif" font-size="25">Software Engineer</text>
+    <text x="54" y="230" fill="#B3CBD2" font-family="Arial,Helvetica,sans-serif" font-size="18">Backend systems. Real-time products. Applied AI.</text>
+    <line x1="54" y1="272" x2="695" y2="272" stroke="#29424F"/>
+    <text x="54" y="313" fill="#D8E8EC" font-family="monospace" font-size="14">NODE.JS / TYPESCRIPT / CLOUD</text>
+    <circle cx="59" cy="346" r="4" fill="#4DE2C6"/>
+    <text x="73" y="351" fill="#8FAFB9" font-family="monospace" font-size="12">Learning in public · Building with intent</text>
+    <g stroke="#3F7780" fill="none">
+      <circle class="halo" cx="966" cy="174" r="97" opacity=".55"/>
+      <circle cx="966" cy="174" r="137" opacity=".22"/>
+      <path d="M840 91L966 174L1105 90M966 174L1091 285M966 174L827 277"/>
+      <path class="signal" d="M840 91L966 174L1105 90M966 174L1091 285M966 174L827 277" stroke="#4DE2C6" stroke-width="2"/>
+    </g>
+    <g fill="#0C202C" stroke="#426772">
+      <rect x="799" y="65" width="82" height="48" rx="12"/>
+      <rect x="1063" y="64" width="84" height="48" rx="12"/>
+      <rect x="785" y="253" width="84" height="48" rx="12"/>
+      <rect x="1049" y="261" width="84" height="48" rx="12"/>
+      <rect x="922" y="130" width="88" height="88" rx="24" stroke="#4DE2C6"/>
+    </g>
+    <g fill="#ACCBD2" font-family="monospace" font-size="13" text-anchor="middle">
+      <text x="840" y="95">API</text><text x="1105" y="95">AI</text>
+      <text x="827" y="283">DATA</text><text x="1091" y="291">EVENTS</text>
+      <text x="966" y="187" font-size="32" fill="#4DE2C6">AK</text>
+    </g>
+    <text x="966" y="352" fill="#648D99" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="2">FROM IDEA TO PRODUCTION</text>
+  </g>
+</svg>
