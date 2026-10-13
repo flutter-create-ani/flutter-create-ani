@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
-  <title id="title">Aniket Kumar — Software Engineer</title>
-  <desc id="desc">Backend systems, real-time products, applied AI. A navy banner with a gently animated teal network.</desc>
+  <title id="title">Aniket Kumar — Full Stack Developer</title>
+  <desc id="desc">Web and mobile experiences, scalable systems, applied AI. A navy banner with a gently animated teal network.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091522"/><stop offset="1" stop-color="#102A35"/></linearGradient>
     <radialGradient id="glow"><stop stop-color="#28DCC0" stop-opacity=".17"/><stop offset="1" stop-color="#28DCC0" stop-opacity="0"/></radialGradient>
@@ -21,10 +21,10 @@
     <path d="M52 48h36" stroke="#4DE2C6" stroke-width="3"/>
     <text x="104" y="53" fill="#91B4C0" font-family="monospace" font-size="13" letter-spacing="3">ENGINEER / BUILDER / LEARNER</text>
     <text x="50" y="139" fill="#F0F8FA" font-family="Arial,Helvetica,sans-serif" font-size="68" font-weight="700" letter-spacing="-2">Aniket Kumar</text>
-    <text x="54" y="184" fill="#4DE2C6" font-family="Arial,Helvetica,sans-serif" font-size="25">Software Engineer</text>
-    <text x="54" y="230" fill="#B3CBD2" font-family="Arial,Helvetica,sans-serif" font-size="18">Backend systems. Real-time products. Applied AI.</text>
+    <text x="54" y="184" fill="#4DE2C6" font-family="Arial,Helvetica,sans-serif" font-size="25">Full Stack Developer</text>
+    <text x="54" y="230" fill="#B3CBD2" font-family="Arial,Helvetica,sans-serif" font-size="18">Web &amp; mobile. Scalable systems. Applied AI.</text>
     <line x1="54" y1="272" x2="695" y2="272" stroke="#29424F"/>
-    <text x="54" y="313" fill="#D8E8EC" font-family="monospace" font-size="14">NODE.JS / TYPESCRIPT / CLOUD</text>
+    <text x="54" y="313" fill="#D8E8EC" font-family="monospace" font-size="14">REACT / NEXT.JS / NODE.JS / FLUTTER</text>
     <circle cx="59" cy="346" r="4" fill="#4DE2C6"/>
     <text x="73" y="351" fill="#8FAFB9" font-family="monospace" font-size="12">Learning in public · Building with intent</text>
     <g stroke="#3F7780" fill="none">
