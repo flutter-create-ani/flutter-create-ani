@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Aniket Kumar — Software Engineer. Backend systems, real-time products, applied AI." />
+  <img src="./assets/header.svg" width="100%" alt="Aniket Kumar — Full Stack Developer. Web and mobile experiences, scalable systems, applied AI." />
 </p>
 
 <p align="center">
@@ -9,9 +9,9 @@
   <a href="https://github.com/flutter-create-ani?tab=repositories">Repositories</a>
 </p>
 
-### Building the systems behind the experience.
+### Building complete products, from interface to infrastructure.
 
-I'm **Aniket Kumar**, a software engineer at **ARM Worldwide**, focused on backend engineering, real-time communication, and AI-powered products. I work across APIs, data, queues, and cloud infrastructure—and build the web and mobile experiences that bring them together.
+I'm **Aniket Kumar**, a **Full Stack Developer** working at **ARM Worldwide**. I build complete web and mobile products—from responsive interfaces with React, Next.js, and Flutter to APIs, databases, real-time communication, and cloud infrastructure.
 
 My work includes multi-LLM orchestration, health-data integrations, distributed WebSockets, and production notification systems. I enjoy turning a product requirement into software that is understandable, reliable, and ready to evolve.
 
@@ -27,6 +27,7 @@ My work includes multi-LLM orchestration, health-data integrations, distributed 
 
 | Area | What I work on |
 | :--- | :--- |
+| **Frontend & mobile** | Responsive interfaces, dashboards, onboarding flows, state management, and cross-platform apps |
 | **Backend & data** | REST APIs, authentication, RBAC, caching, indexing, query optimization, and asynchronous processing |
 | **Real-time systems** | WebSocket communication, Redis Pub/Sub, Socket.IO adapters, WebRTC, and location-based discovery |
 | **Applied AI** | RAG pipelines, multi-provider LLM orchestration, MCP integrations, and workflow automation |
@@ -117,7 +118,7 @@ I practice data structures and algorithms in **Java**, with a focus on graphs, d
 - **B.Tech, Electronics & Communication Engineering** · KIET Group of Institutions · Class of 2025.
 - Mentored teams at **BFCET Hacks 2.0** and helped students learn UI/UX and Figma.
 - Served as **Vice-President of the UI/UX community** at college.
-- Interested in backend engineering, real-time products, developer tooling, and practical AI.
+- Interested in full stack development, real-time products, developer tooling, and practical AI.
 
 ---
 
